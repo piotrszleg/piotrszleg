@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm a student living in Poland, interested in game development, web development and programming in general.
 
-### More Information
+### My previous blog::
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[link](https://piotrekgamedev.wordpress.com/) 
